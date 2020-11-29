@@ -2,6 +2,6 @@
 <head>
   </head>
    <body>
-     <script src=""> </script>
+     <script src="c:\"> </script>
   </body>
 </html>
