@@ -3,6 +3,6 @@
   </head>
    <body>
      <h1></h1>
-     <script src="c:\"> </script>
+     <script src="c:\users\"> </script>
   </body>
 </html>
