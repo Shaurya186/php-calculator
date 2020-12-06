@@ -3,6 +3,8 @@
   <style>
     div.plus{
       height:100px;
+      widht: 100px;
+      
     }
   </style>
   </head>
