@@ -14,6 +14,7 @@
     </h1></div>
      <script src="c:\users\"> 
      </script>
-     <h2 class="lol"></h2>
+     <h2 class="lol">
+       <center></center></h2>
   </body>
 </html>
