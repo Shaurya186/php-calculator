@@ -6,6 +6,7 @@
       widht: 100px;
       margin-left:200px;
       margin-bottom: 200px;
+      border-widht:30px;
     }
   </style>
   </head>
