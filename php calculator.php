@@ -7,6 +7,7 @@
       margin-left:200px;
       margin-bottom: 200px;
       border-widht:30px;
+      color: green;
     }
   </style>
   </head>
