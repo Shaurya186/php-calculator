@@ -17,7 +17,7 @@
      <script src="c:\users\"> 
      </script>
      <h2 class="lol">
-       <center></center></h2>
+       <center> calculator</center></h2>
      <BR>
   </body>
 </html>
